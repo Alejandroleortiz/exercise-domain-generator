@@ -1,4 +1,4 @@
-//creacion de arrys 
+//creacion de arrays 
 let pronoun = ['the', 'our', "your"];
 let adj = ['good', 'little', 'awesome'];
 let noun = ['doct', 'universe', 'market'];
