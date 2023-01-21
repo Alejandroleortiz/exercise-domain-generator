@@ -23,4 +23,4 @@ function dGenerator(pronoun, adj, noun, dom) {
         }
     }
 }
-dGenerator(pronoun, adj, noun, dom);
+dGenerator(pronoun, adj, noun, dom); //funtion tipo metodo // 
